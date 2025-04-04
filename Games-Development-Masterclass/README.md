@@ -1,68 +1,109 @@
-# **Currently Ongoing Module**  
-Colaberation with students Michael Fry and Adam Baker.  
-## Project to be submitted to Tranzfuser
+# Cast Aside – 3D Puzzle Adventure Game
 
-Game Development Masterclass:
+**Cast Aside** is a 3D puzzle exploration game developed in Unity as part of the final-year **Game Development Masterclass** module at the University of Suffolk. The module was designed to consolidate and apply the full range of game development skills acquired throughout the degree. The project was a collaborative group effort, with all team members contributing across disciplines to build a complete and cohesive gameplay experience.
 
-Indie game development demands a portfolio of skills beyond those of isolated design and
-technicality. This form of game development requires that developers are able to build a
-sustainable business with consideration for the promotion of their game, and for post-launch
-development and support.  
-Working in small teams, students will develop a high quality polished prototype, identifying the
-genre, supporting technology, and intended platform. In the first instance, students must clearly
-identify their nominated target audience, and present robust and convincing evidence of a
-detailed competitor analysis.  
-Students must identify the USP of their proposed project, demonstrating creativity and innovation, 
-and explaining how their proposed project will stand out in a crowded marketplace.  
-With the preparatory research in place, students will construct a list
-of design pillars which will inform and guide design choices throughout development.  
-Teams will adopt an Agile management methodology, drawing upon the experience they have
-acquired in previous modules to scope, plan, assess, and moderate their progress.  
-Throughout this module, students will develop an understanding of the importance of building an
-early business case for their proposed game, and of the various potential markets, platforms,
-and monetisation strategies at their disposal.
+The game received a **First Class mark (74%)**, and my individual contributions were assessed at **79%**, resulting in an overall module grade of **78%**.
 
-LEARNING OUTCOMES:  
-On successful completion of this module, a student will be able to:  
-1. Demonstrate the ability to develop a high quality game for a specified audience.  
-2. Communicate consistent progress throughout the iterative development cycle.  
-3. Demonstrate a critical awareness of how the various elements of the game development
-process influence each other.  
-4. Create a detailed plan for promoting, supporting, and monetising a game.
+---
 
-## ASSESSMENT 1: Completed Game  
-This submission will take the form of the completed game. The game will be assessed for its
-experiential value, originality, level of polish, and ability to meet the requirements of the target
-audience. All aspects of the game will be assessed, including code, visual design, sound
-design, and gameplay design components. Multiple development iterations and iterative
-evaluation of stakeholder feedback will ensure that the game is of a high standard. Where the
-game is undertaken as part of a team, each student receives the same mark for this component
-of the assessment.
+## 🧠 Game Overview
 
-DELIVERABLES:  
-A playable game build of at least thirty minutes of gameplay
+In *Cast Aside*, players explore a mysterious and stylised world filled with environmental puzzles, secret passageways, and light/dark mechanics. The game is driven by atmosphere, exploration, and a slowly unfolding narrative. Players are challenged to uncover the truth by interacting with objects, manipulating light and shadow, and progressing through increasingly complex puzzles.
 
-## ASSESSMENT 2: Individual Contributions  
-During weekly progress meetings, contributions from each student will be monitored and
-evaluated in order to provide individual formative feedback. These contributions will be collated
-and submitted by each student on an individual basis.
+---
 
-DELIVERABLES:  
-A comprehensive asset list of personal contributions  
-A video of gameplay with voice over indicating personal contribution to development,
-and impact on the final product
+## 👨‍💻 My Contributions
 
-## ASSESSMENT 3: Promotional and Support Plan (2000 words)  
-Each student will construct their own individual promotional and support plan for the game. This
-will be informed by the module content delivered throughout the module, and the weekly
-formative feedback provided to each student and group. The majority of this work will be
-conducted in Games Hub sessions.
+As part of the core development team, I contributed across multiple areas, but focused heavily on **user-facing systems** and **project polish**, including:
 
-DELIVERABLES:  
-A one-page marketing plan  
-A business canvas  
-Release schedule / production plan outlining the schedule beyond the module deadline
-and Tranzfuser deadlines  
-A one-minute game trailer  
-Social media and marketing presence, and branding resources (e.g. company logo,
-social media banners etc)
+### 🎮 Menus & UI Systems
+- Full **Main Menu**, **Pause Menu**, and **Options Menu**
+- Designed for intuitive navigation and clean visual presentation
+- Integrated visual effects and animations to match tone/style
+
+### 🔊 Audio Integration
+- Implemented dynamic sound into all menus
+- Built **volume sliders** with real-time audio feedback
+- Connected UI sliders to master, music, and SFX levels
+
+### 🎛️ Keybinding System
+- Designed and implemented a **customisable keybinding system**
+- Built UI to allow **rebindable controls**
+- Integrated **save/load logic** for user preferences
+
+### 🔐 Unlockables & Preferences
+- Integrated player preferences system
+- Coded unlockable content with persistent save data
+- Worked on progression logic tied to game systems
+
+### 🎞️ Game Trailer
+- Directed, captured, and edited the **official trailer**
+- Used Unity’s camera tools and timeline animation
+- Focused on cinematic framing and pacing
+
+---
+
+## 🛠 Tech Stack
+
+- **Engine:** Unity (URP)
+- **Language:** C#
+- **Version Control:** GitHub (team repository)
+- **UI Tools:** Unity UI + animation controllers
+- **Audio:** Unity Audio System
+- **Input Handling:** Custom C# rebinding framework
+
+---
+
+## 📁 Key Scripts Tied to My Work
+
+| System               | Scripts |
+|----------------------|---------|
+| Menu Systems         | `MenuButtons.cs`, `OptionsMenu.cs`, `PauseMenuManager.cs` |
+| Audio UI Integration | `VolumeControl.cs`, `AudioManager.cs` |
+| Input Rebinding      | `ControlMapper.cs`, `ControlsUIManager.cs`, `KeyRebinder.cs`, `RebindSaveLoad.cs` |
+| Preferences / Saves  | `SaveLoadManager.cs`, `PreferenceStorageAccessor.cs`, `PreferenceEntry.cs` |
+| UI Visuals           | `TextPulse.cs`, `MoveAndScaleLogo.cs`, `NoisyFadeIn.cs`, `ResolutionControl.cs` |
+| Trailer Work         | `TrailerCameraControl.cs`, `DollyCartMover.cs`, `SyncDollyAndCamera.cs` |
+
+---
+
+## 🧩 Teamwork & Collaboration
+
+*Cast Aside* was built as a group project, and our team operated with open communication, shared responsibility, and a commitment to iterating on gameplay ideas. While I focused on systems related to UI and experience design, I also contributed across design meetings, testing, and debugging efforts throughout the development lifecycle.
+
+---
+
+## 📘 About the Module: Game Development Masterclass
+
+This final-year module simulates the full lifecycle of an indie game studio project — from research and competitor analysis through to gameplay development, pitch, and post-launch planning. It focuses on collaborative project-based learning and entrepreneurial thinking.
+
+### Learning Outcomes
+- Develop a polished game for a specific audience
+- Communicate consistent progress through agile methods
+- Demonstrate awareness of interlinked game dev systems
+- Create a marketing and monetisation plan for post-release
+
+### Assessments
+- **Completed Game**: A full playable prototype (~30 mins gameplay)
+- **Individual Contributions**: Asset list, gameplay commentary, technical breakdown
+- **Promotional & Support Plan**: Business model, trailer, and branding materials
+
+---
+
+## 🎓 Academic Achievement
+
+- **Module:** Game Development Masterclass (Final Year)
+- **Project Score:** 74% (First)
+- **My Individual Contribution Score:** 79%
+- **Weighted Module Grade:** **78% First-Class Honours**
+
+---
+
+## 🙌 Final Thoughts
+
+This project showcases:
+- My ability to work effectively as part of a development team
+- A focus on polish, usability, and player experience
+- Confidence with Unity UI systems, sound integration, input logic, and presentation
+
+*Cast Aside* stands as a solid demonstration of my growth as a developer and my readiness for professional team-based game production environments.
