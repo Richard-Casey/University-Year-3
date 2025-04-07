@@ -1,6 +1,6 @@
 # Stock and Shop – Unity-Based Retail Management Simulation
 
-## 🎥 Watch the Project Presentation & Demo below
+## 🎥 Watch the Project's TIGA Submitted Demo Below
 
   <a href="https://www.youtube.com/watch?v=MyecVMqkZ9Y" target="_blank">
     <img src="https://img.youtube.com/vi/MyecVMqkZ9Y/0.jpg" alt="Stock and Shop Demo Video" width="600"/>
