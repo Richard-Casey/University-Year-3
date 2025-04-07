@@ -1,8 +1,6 @@
 # Professional Practice – Secure MongoDB Login System
 
-[![Watch the presentation](https://img.youtube.com/vi/uripIPCbDrY/0.jpg)](https://www.youtube.com/watch?v=uripIPCbDrY)
-
-## 🎥 Watch the Project Demo
+## 🎥 Watch the Project Presentation & Demo below
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=uripIPCbDrY" target="_blank">
