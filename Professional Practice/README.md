@@ -2,12 +2,9 @@
 
 ## 🎥 Watch the Project Presentation & Demo below
 
-<div align="center">
   <a href="https://www.youtube.com/watch?v=uripIPCbDrY" target="_blank">
     <img src="https://img.youtube.com/vi/uripIPCbDrY/0.jpg" alt="Stock and Shop Demo Video" width="600"/>
   </a>
-</div>
-
 
 This repository contains my final-year submission for the **Professional Practice** module at the University of Suffolk. The project focused on delivering a real-world solution to a live brief set by an external client. My role involved designing and implementing a secure authentication system using Unity and MongoDB, with JWT token-based login and refresh support.
 
