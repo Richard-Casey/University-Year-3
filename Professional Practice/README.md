@@ -1,5 +1,7 @@
 # Professional Practice – Secure MongoDB Login System
 
+[![Watch the presentation](https://img.youtube.com/vi/uripIPCbDrY/0.jpg)](https://www.youtube.com/watch?v=uripIPCbDrY)
+
 This repository contains my final-year submission for the **Professional Practice** module at the University of Suffolk. The project focused on delivering a real-world solution to a live brief set by an external client. My role involved designing and implementing a secure authentication system using Unity and MongoDB, with JWT token-based login and refresh support.
 
 ---
