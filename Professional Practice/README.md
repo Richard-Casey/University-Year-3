@@ -2,7 +2,7 @@
 
 ## 🎥 Watch the Project Presentation & Demo below
 
-  <a href="https://www.youtube.com/watch?v=uripIPCbDrY" target="_new">
+  <a href="https://www.youtube.com/watch?v=uripIPCbDrY" target="_blank">
     <img src="https://img.youtube.com/vi/uripIPCbDrY/0.jpg" alt="Stock and Shop Demo Video" width="600"/>
   </a>
 
