@@ -2,6 +2,10 @@
 
 [![Watch the presentation](https://img.youtube.com/vi/MyecVMqkZ9Y/0.jpg)](https://www.youtube.com/watch?v=MyecVMqkZ9Y)
 
+  <a href="https://www.youtube.com/watch?v=MyecVMqkZ9Y" target="_blank">
+    <img src="https://img.youtube.com/vi/MyecVMqkZ9Y/0.jpg" alt="Stock and Shop Demo Video" width="600"/>
+  </a>
+
 **Stock and Shop** is a modular, simulation-style retail management game developed in Unity as part of my final-year dissertation project. It was awarded a **First Class (73%)** and was the department’s **official nominee for the 2024 TIGA Awards**.
 
 The game places the player in the role of a shop manager tasked with stocking shelves, managing wholesale inventory, serving customers, operating tills, and tracking profits over time. The project was built to demonstrate modular gameplay systems, UI responsiveness, and player-facing mechanics with real commercial simulation roots.
