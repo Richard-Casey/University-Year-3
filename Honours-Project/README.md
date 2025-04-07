@@ -2,9 +2,9 @@
 
 ## 🎥 Watch the Project's TIGA Submitted Demo Below
 
-  <a href="https://www.youtube.com/watch?v=swvA5oGCOQk" target="_blank">
-    <img src="https://img.youtube.com/vi/swvA5oGCOQk/0.jpg" alt="Stock and Shop Demo Video" width="600"/>
-  </a>
+<a href="https://www.youtube.com/watch?v=swvA5oGCOQk" target="_blank">
+  <img src="https://img.youtube.com/vi/swvA5oGCOQk/0.jpg" alt="Stock and Shop Demo Video" width="600"/>
+</a>
 
 **Stock and Shop** is a modular, simulation-style retail management game developed in Unity as part of my final-year dissertation project. It was awarded a **First Class (73%)** and was the department’s **official nominee for the 2024 TIGA Awards**.
 
@@ -89,16 +89,8 @@ This project was designed to:
 - **Grade:** First-Class Honours (73%)
 - **TIGA Nomination:** Official 2024 nominee from the University of Suffolk Games Department
 - **Supervision:** Mentored by Nick Thomas, nominated after unanimous agreement from the games faculty
-
----
-
-## 📄 Documentation
-
-Full developer documentation is available under `Doxygen Documentation/`, including:
-- Class references
-- Inheritance diagrams
-- Function summaries
-- Structural breakdown
+- 📄 Dissertation: See `RichardCasey_s233122_Dissertation_StockAndShop_2024.pdf`
+- 🖼️ Poster: See `Dissertation_Poster.pdf` for a summary visual
 
 ---
 
@@ -122,4 +114,3 @@ This project represents the culmination of my time in the Games Development (Pro
 - Long-term scalability and clarity in codebase structure
 
 If you’re looking for a programmer who can think modularly, work independently, and create polished, real-world gameplay systems — this is a prime example of what I can do.
-
