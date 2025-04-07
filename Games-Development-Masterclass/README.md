@@ -73,6 +73,21 @@ As part of the core development team, I contributed across multiple areas, but f
 
 ---
 
+## 🗂️ Supporting Documentation & Evidence
+
+This repo includes a large amount of documented evidence of my work on the project, including:
+
+- Week-by-week breakdowns of contributions with screenshots
+- Clockify time reports showing weekly activity
+- Pitch deck, GDDs, and 1PMP canvas
+- Custom Unity test scenes (e.g., `Tester.unity`)
+- Concept art, logo prototypes, and menu mockups
+- Playtesting feedback and iterations
+
+These materials reflect the iterative nature of the project, our communication as a team, and my commitment to polish and UX detail.
+
+---
+
 ## 🧩 Teamwork & Collaboration
 
 *Cast Aside* was built as a group project, and our team operated with open communication, shared responsibility, and a commitment to iterating on gameplay ideas. While I focused on systems related to UI and experience design, I also contributed across design meetings, testing, and debugging efforts throughout the development lifecycle.
