@@ -1,5 +1,9 @@
 # Cast Aside – 3D Puzzle Adventure Game
 
+  <a href="https://www.youtube.com/watch?v=6sZfFVR30XE" target="_blank">
+    <img src="https://img.youtube.com/vi/6sZfFVR30XE/0.jpg" alt="Cast-Aside Map trail trailer" width="600"/>
+  </a>
+
 **Cast Aside** is a 3D puzzle exploration game developed in Unity as part of the final-year **Game Development Masterclass** module at the University of Suffolk. The module was designed to consolidate and apply the full range of game development skills acquired throughout the degree. The project was a collaborative group effort, with all team members contributing across disciplines to build a complete and cohesive gameplay experience.
 
 The game received a **First Class mark (74%)**, and my individual contributions were assessed at **79%**, resulting in an overall module grade of **78%**.
