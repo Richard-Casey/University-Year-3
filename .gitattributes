@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Tell GitHub to ignore Doxygen HTML docs when calculating language stats
+Honours-Project/Doxygen\ Documentation/** linguist-documentation
+
+# Force C# classification for all .cs files
+*.cs linguist-language=C#
